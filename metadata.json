@@ -1,0 +1,6 @@
+{
+  "name": "JHEP Digital - Portal Pengurusan Hal Ehwal Pelajar PTSS",
+  "description": "Portal rasmi Jabatan Hal Ehwal Pelajar Politeknik Tuanku Syed Sirajuddin (PTSS) dengan dashboard analitik masa nyata, pengesahan dua faktor (2FA), pengurusan CRUD, laporan PDF automatik dan integrasi Google Drive selamat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
